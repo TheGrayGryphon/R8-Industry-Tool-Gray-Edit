@@ -2,6 +2,11 @@
 
 A GUI application for viewing and editing Run8 Train Simulator industry configuration files (.ind).
 
+
+## NOTE: This software is not an official product from Run8 Studios 
+
+Please do **not** contact the developers at Run8 Studios for support with this tool - instead, create an issue in this repo.
+
 ## Features
 
 - View and edit industry configurations
@@ -53,9 +58,9 @@ See [instructions.md](instructions.md) for detailed usage instructions.
 ## File Structure
 
 - `r8it.py` - Main application entry point
-- `r8lib.py` - Core data structures for Run8 file format
-- `mainTable.py` - Table model with dirty row tracking
-- `industryDetailDialog.py` - Industry detail editor
+- `r8lib.py` - Core data structures for Run8
+- `mainTable.py` - Table on main page
+- `industryDetailDialog.py` - Industry detail viewer/editor
 - `findReplaceDialog.py` - Main window find/replace functionality
 - `industryFindReplaceDialog.py` - Industry-specific tag find/replace
 - `*.ui` files - Qt Designer UI definitions
@@ -65,6 +70,3 @@ See [instructions.md](instructions.md) for detailed usage instructions.
 
 [Add your license here]
 
-## Contributing
-
-[Add contribution guidelines if applicable]
