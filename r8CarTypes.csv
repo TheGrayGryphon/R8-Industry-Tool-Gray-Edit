@@ -1,0 +1,23 @@
+config.ind byte value,Run8 Nomenclature
+1,Acid Tank Car
+24,AggregateHopper
+3,Autorack Car
+2,Amtrak Autorack Car
+4,Ballast Hopper
+17,BethGon
+5,Box Car
+20,Box_AutoParts
+21,Bulkhead_Flat
+7,Centerbeam Flat Car
+8,Covered Hopper
+23,CoilCar
+10,Gondola
+11,Open Hopper
+12,Passenger Car
+13,Piggyback Flat Car
+18,PlasticPellet_Hopper
+14,Refrigerator Car
+15,Tank Car
+9,Two Bay Covered Hopper
+16,Well Car
+19,Woodchip_Hopper
