@@ -16,10 +16,13 @@ Please do **not** contact the developers at Run8 Studios for support with this t
 - Visual indicators for unsaved changes
 - Export configurations to new files
 
-## Requirements
+## Requirements to build
 
 - Python 3.8+
 - PySide6 6.10.1
+
+## An executable is available in Releases. 
+Note: This is created with "pyinstaller"
 
 ## Installation
 
